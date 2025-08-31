@@ -9,9 +9,13 @@ The dashboard is designed to uncover key business insights and support data-driv
 🔑 Key Features
 
 ✔ Sales KPIs – Total Sales, Average Sales, Number of Items Sold
+
 ✔ Customer Insights – Average Rating across categories
+
 ✔ Item Analysis – Sales by Item Type & Fat Content
+
 ✔ Outlet Analysis – Sales by Size, Location, and Establishment Year
+
 ✔ Visual KPIs & Charts – Clean and interactive Power BI visuals
 
 🛠 Tools & Technologies
